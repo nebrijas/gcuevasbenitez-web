@@ -26,7 +26,7 @@ También me pareció apropiado señalar con verde a las personas que no se conta
 
 Al leer la metodología que se empleó para realizar este **reportaje visual** se tiene la impresión de que se tuvo que profundizar en los datos y consultar con expertos en más de una ocasión para presentar ese nivel de publicación sin errores.
 
-Aunque hubo letras, las **visualizaciones** son las que se llevan toda la atención del trabajo, que le valió al equipo de *El País* el **I Premio Vicente Verdú de Periodismo e Innovación**, convocado por la Asociación de Informadores de Elche (AIE).
+Aunque hubo letras, las **visualizaciones** son las que se llevan toda la atención del trabajo, que le valió al equipo de *El País* el **I Premio Vicente Verdú de Periodismo e Innovación**, convocado por la **Asociación de Informadores de Elche (AIE)**.
 
 El jurado destacó la “acertada presentación de los contenidos” así como su “didáctica” y por utilizar el periodismo como un servicio público.
 
