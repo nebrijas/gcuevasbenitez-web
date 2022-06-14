@@ -20,6 +20,7 @@ Para este punto, de la estética sobre cómo la visualización de la publicació
 Esto involucra la selección de los colores. En sí, los escenarios presentados en el **reportaje visual** están coloreados en un tono gris, el cual es destacable por el fondo blando del periódico *El País*. En cambio, la persona que está contagiada con la enfermedad del **coronavirus** se destacada en con el color rojo.
 
 También me pareció apropiado señalar con verde a las personas que no se contagiarían con **COVID-19** según el escenario planteado y las circunstancias, como el uso o no de la mascarilla, que el lugar tenga ventilación natural o se empleé el uso de un aire acondicionado.
+![Esta es una imagen](https://pbs.twimg.com/media/ElLh-HgXIAEpmH_?format=jpg&name=large)
 
 ### Condensación de la información
 
