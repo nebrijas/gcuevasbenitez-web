@@ -38,7 +38,7 @@ Los pasos fueron los siguientes:
 20. Luego ejecuté el comando `git push` para publicar en la web.
 21. Realicé el comando `nano.exe ad2.md` entré al *buffer* para escribir el nombre de la actividad.
 22. Luego hice un `ls` para confirmar que tenia el nuevo archivo.
-23. Escribí `git add ad2.md" para agregar el archivo, luego de confirmar que no estaba a través de un `git status`.
+23. Escribí `git add ad2.md` para agregar el archivo, luego de confirmar que no estaba a través de un `git status`.
 
 # Tercera parte
 
