@@ -7,4 +7,3 @@ Estas son las actividades del módulo de Periodismo de datos II: herramientas di
 2. [Actividad dirigida 2](ad2.md)
 3. [Actividad dirigida 3](ad3.md)
 4. [Actividad dirigida 4](ad4.md)
-5. [Trabajo final](trabajo-final.md)
