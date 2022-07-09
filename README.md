@@ -39,6 +39,7 @@ Aquí aprendí sobre la programación literaria, que consiste en documentar minu
 En esta actividad hemos usado el cuaderno de **Jupyter** con documentos de Python, y como estos mismos se pueden visualizar en la web de **GitHub** descargándolos con formato de Markdown. En este cuaderno podemos hacer la práctica de programación literaria a medida en que empleamos código.
 
 De forma predetermina, las celdas del cuaderno están en formato de código, para convertirlo en **Markdown** tendría que salir del espacio de escritura, seleccionar la celda y con el atajo de teclado presionamos `m`.
+Como esta actividad se hizo en dos ocasiones, la segunda vez que abrí el cuarderno no podía visualizar lo que estaba haciendo, me apareció el error de que la *function is not defined error*. Lo que hice simplemente fue darle a *Run* a cada una de las celdas. Esto lo hacía cada vez que entraba al cuarderno, para evitar que aparezca nueva vez el error.
 
 Como todo lo que se hace en Jupyter se actualiza en local, para llevarlo al **GitHub**, usamos la terminal de Git Bash y seguimos los mismos pasos que en la actidad dirigida pasada. 
 
